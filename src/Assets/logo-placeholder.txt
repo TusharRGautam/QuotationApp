@@ -1,0 +1,10 @@
+Place your company logo (Companylogo.png) in this Assets folder.
+
+The logo should be:
+- PNG format
+- Recommended size: 200x100 pixels or similar aspect ratio
+- Company name: Zhoop Steels
+- Owner: Tushar Gautam
+
+Once you add the actual logo file as "Companylogo.png", 
+the app will automatically use it in the quotations.
